@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming
 - 📫 How to reach me: triyadimulyana1@gmail.com
 
-[Yadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadi-developer)
+[![Yadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadi-developer)
